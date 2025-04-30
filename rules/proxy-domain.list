@@ -1,0 +1,52 @@
+# NAME: Proxy-Domain
+# AUTHOR: xiaodo168
+# REPO: https://github.com/xiaodo168/HomePod
+# 强制代理列表，来自谨兮个人收集
+
+<!--以下为历史更新记录，当前仅作参考，实际生效配置请以最新下发内容为准。
+❌ 25.04.22 删除：52PT
+🔧 25.04.24 修复：友人Emby域名
+📄 25.04.29 转移：文档项目
+-->    
+
+
+# PT站
+DOMAIN,ubits.club
+DOMAIN,monikadesign.uk
+DOMAIN,api.m-team.cc
+DOMAIN,kp.m-team.cc
+DOMAIN,www.agsvpt.com
+DOMAIN,star-space.net
+DOMAIN,www.qingwapt.com
+DOMAIN,hhanclub.top
+DOMAIN,lemonhd.club
+DOMAIN,www.yemapt.org
+
+# EA Desktop 云同步
+#DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
+# GooglePlay 相关
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn
+# PS5 STUN
+DOMAIN-SUFFIX,stun.playstation.net
+# Docker
+DOMAIN,d1q6f0aelx0por.cloudfront.net
+DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN,d36jcksde1wxzq.cloudfront.net
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerhub.com
+# mihomo
+DOMAIN-SUFFIX,metacubex.one
+# Google translate
+DOMAIN-SUFFIX,translate.google.com
+DOMAIN-SUFFIX,translate.googleapis.com
+# 自定义常用
+DOMAIN-SUFFIX,bajie.pw
+DOMAIN,cn.v2ex.com
+
+#支持站
+# DOMAIN-SUFFIX,invites.fun
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,movie-pilot.org

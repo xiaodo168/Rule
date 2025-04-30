@@ -1,0 +1,90 @@
+# NAME: ip-domain
+# AUTHOR: xiaodo168
+# REPO: https://github.com/xiaodo168/HomePod
+# IP优选列表，来自谨兮个人收集
+
+<!--以下为历史更新记录，当前仅作参考，实际生效配置请以最新下发内容为准。
+✅ 25.03.27 新增：财神、杏坛、岛副域名
+✅ 25.03.28 新增：红豆包、RailgunPT、车站、蟹黄堡、PTzone、雨站
+❌ 25.03.29 删除：开心
+✅ 25.04.01 新增：下水道、蝶粉、oldtoons
+✅ 25.04.03 新增：药丸、蜂巢、柠檬、岛主域名
+🔧 25.04.03 修复：野马 只能走代理无法优选
+✅ 25.04.05 新增：皇后
+✅ 25.04.10 新增：HDBAO、CD File、DevTracker、GGPT、伞、TorrentHub、海豚、海豹
+✅ 25.04.19 新增：吐鲁番、烧包、animelovers
+✅ 25.04.21 新增：葫芦娃
+❌ 25.04.28 删除：T88、葫芦娃
+📄 25.04.29 转移：文档项目
+-->    
+
+
+#CIP优选域名
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,zmpt.club
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,hdvideo.one
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,zhuque.in
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,fj.chddiy.xyz
+DOMAIN-SUFFIX,lemonhd.club
+DOMAIN-SUFFIX,www.qingwapt.com
+DOMAIN-SUFFIX,new.qingwa.pro
+DOMAIN-SUFFIX,www.agsvpt.com
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,u2.dmhy.org
+DOMAIN-SUFFIX,rousi.zip
+DOMAIN-SUFFIX,sunnypt.top
+DOMAIN-SUFFIX,ptcafe.club
+DOMAIN-SUFFIX,www.pttime.org
+DOMAIN-SUFFIX,kufei.org
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,www.hddolby.com
+DOMAIN-SUFFIX,ptchina.org
+DOMAIN-SUFFIX,www.haidan.video
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,pandapt.net
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,www.qingwapt.com
+DOMAIN-SUFFIX,hdpt.xyz
+DOMAIN-SUFFIX,wintersakura.net
+DOMAIN-SUFFIX,ptvicomo.net
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,ptlgs.org
+DOMAIN-SUFFIX,pt.keepfrds.com
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,www.icc2022.com
+DOMAIN-SUFFIX,hspt.club
+DOMAIN-SUFFIX,xingyunge.top
+DOMAIN-SUFFIX,discfan.net
+DOMAIN-SUFFIX,discfan.xyz
+DOMAIN-SUFFIX,wukongwendao.top
+DOMAIN-SUFFIX,www.joyhd.net
+DOMAIN-SUFFIX,crabpt.vip
+DOMAIN-SUFFIX,ptzone.xyz
+DOMAIN-SUFFIX,raingfh.top
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,hdba.cc
+DOMAIN-SUFFIX,bilibili.download
+DOMAIN-SUFFIX,cspt.top
+DOMAIN-SUFFIX,pt.tu88.men
+DOMAIN-SUFFIX,lemonhd.net
+DOMAIN-SUFFIX,mckk88.top
+DOMAIN-SUFFIX,hdbao.cc
+DOMAIN-SUFFIX,52pt.site
+
+
+
+
+
+
+#暂时无用
+# DOMAIN-SUFFIX,www.yemapt.org
