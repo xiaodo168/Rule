@@ -152,6 +152,9 @@ DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-SUFFIX,tracker.tokyopt.xyz
+
+
 
 # CCTV
 DOMAIN-SUFFIX,cctv.com
@@ -755,7 +758,7 @@ DOMAIN-SUFFIX,mckk88.top
 DOMAIN-SUFFIX,hdbao.cc
 DOMAIN-SUFFIX,tracker.ptvicomo.net
 DOMAIN-SUFFIX,52pt.site
-
+DOMAIN-SUFFIX,tracker.tokyopt.xyz
 
 # 自定义特殊直连规则
 DOMAIN-SUFFIX,106071.xyz
