@@ -6,6 +6,7 @@
 <!--以下为历史更新记录，当前仅作参考，实际生效配置请以最新下发内容为准。
 ✅ 25.04.22 新增：52PT
 📄 25.05.01 转移：文档项目
+✅ 25.05.23 新增：友人
 -->    
 
 
@@ -771,7 +772,7 @@ DOMAIN-SUFFIX,020608.xyz
 DOMAIN-SUFFIX,188311.xyz
 DOMAIN-SUFFIX,xiaodo.asia
 DOMAIN-SUFFIX,xiaoya168.xyz
-
+DOMAIN-SUFFIX,hhxin.top
 # github
 # DOMAIN-SUFFIX,ri.newn.us.kg
 DOMAIN-SUFFIX,git.886.be
